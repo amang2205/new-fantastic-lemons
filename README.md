@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: January 18, 2018
-- Facilitator: @crichID
+- Class Date: January 18 - 19, 2018
+- Facilitator: @crichID && @sdavis3
 
 ## Talk to Us!!
 
