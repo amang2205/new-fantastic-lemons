@@ -1,4 +1,4 @@
-# GitHub for Developers
+# GitHub for Developers, at Quipu in April 2018
 
 - Class Date: January 18 - 19, 2018
 - Facilitator:  @crichID
